@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Spooky',
-    desctiption: 'Website for spookyy!!',
+    title: 'Frandship',
+    desctiption: 'Frandship broken with Sagar Virk!',
     serviceWorker: true,
     themeConfig: {
         logo: '/images/logo.svg',
