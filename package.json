@@ -1,8 +1,8 @@
 {
-  "name": "spooky",
+  "name": "friendship",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://nishkalkashyap.github.io/spooky",
+  "homepage": "https://nishkalkashyap.github.io/friendship",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
